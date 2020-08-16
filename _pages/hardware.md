@@ -325,7 +325,7 @@ this now links to the RevB board._
 
 A new silicon root of trust, for details, please see the repository.
 
-## [Arty e21](https://github.com/tock/tock/tree/master/boards/arty-e21)
+## [Arty e21](https://github.com/tock/tock/tree/master/boards/arty_e21)
 
 An FPGA-based platform with large I/O potential and a vast array of timers.
 The board is a Arduino-compatible footprint, enabling additional expansion.
